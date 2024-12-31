@@ -8,10 +8,10 @@ This project is a personal website to show my skills in HTML and CSS.
 - Added basic structure in `index.html`.
 - Added About Me page.
 - Added Contact page.
-- Added the topic page.
+- Added Topic page.
 - Added Degree page.
 - Added FCE page.
-- Added net page.
+- Added Net page.
 
 # Design Detailed Document (DDD)
 
